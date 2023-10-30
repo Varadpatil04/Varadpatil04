@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React.js<br>👯 I’m looking to collaborate on <br>🌱 I’m currently learning Next.js<br>💬 Ask me about Front-End & Databases
+🔭 I’m currently working on React.js<br>👯 I’m looking to collaborate on Open-Source Libraries<br>🌱 I’m currently learning Next.js<br>💬 Ask me about Front-End & Databases
 
 
 ## 🌐 Socials:
